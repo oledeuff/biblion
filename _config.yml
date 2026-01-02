@@ -1,0 +1,13 @@
+title: "biblion"
+description: "Logs inversés : lectures, notes, méthodes, ressources"
+theme: minima
+
+# Important pour un dépôt "project site" (oledeuff.github.io/biblion)
+url: "https://oledeuff.github.io"
+baseurl: "/biblion"
+
+# Confort
+show_excerpts: true
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+timezone: Europe/Paris
