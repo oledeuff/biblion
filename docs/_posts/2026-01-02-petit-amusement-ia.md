@@ -7,7 +7,7 @@ tags: [lecture, journalisme, hyperinvestigation]
 
 Petit amusement avec l'IA ce matin en analysant les projections annuelles du Niemanlab sur le journalisme avec cette infographie générée par chatgpt.
 
-![infographie HyperIon à partir du Niemanlab](/img/niemanlabhyperi.png)
+![infographie HyperIon à partir du Niemanlab](/img/niemanlabhyperI.png)
 
 
 Mon but était de voir en quoi les prédictions pouvaient entrer en adéquation avec mon projet sur l'Hyperinvestigation.
