@@ -15,6 +15,7 @@ Mon but était de voir en quoi les prédictions pouvaient entrer en adéquation 
 La présentation apparaît sous formes de jeu de fiches ou de cartes avec comme d'habitude l'expertise des interviewés sur des axes spécifiques.
 
 Je retiens des points essentiels qui se confirment : la qualité des données et des métadonnées va devoir se renforcer, les opérations de sécurisation des données également notamment pour faire face aux arnaques et aux fausses informations, ce qui va obliger à "protocoler" le processus régulier de vérification, et bien entendu la valeur ajoutée va de plus en plus se déplacer vers les investigations plus ou moins complexes. On notera également la mention d'une transparence collaborative ou "crowdsourced accountability".
+Le besoin de démonstration et des logiques OSINT va se poursuivre.
 
 [Les prédictions 2026 du Niemanlab]( https://www.niemanlab.org/collection/predictions-2026/)
 
