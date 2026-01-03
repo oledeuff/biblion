@@ -16,7 +16,7 @@ Si j'ouvre ce projet en 2026, c'est aussi pour prolonger mes travaux du moment. 
 Olivier Le Deuff, professeur des universités, Université Bordeaux Montaigne
 Membre senior de l'IUF
 
-![image d'illustration](.biblion/img/couverture.jpg)
+![image d'illustration](/biblion/img/couverture.jpg)
 
 image : Photo de <a href="https://unsplash.com/fr/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> sur <a href="https://unsplash.com/fr/photos/tunnel-geometrique-abstrait-avec-des-motifs-et-ouvertures-complexes-Lliza34L6UI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
